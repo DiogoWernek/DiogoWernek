@@ -1,6 +1,6 @@
 ## 🐱‍🐉 Oi, bem vindos ao meu GitHub!
 
-- 🌱 Estudando para Full-Stack.
+- 🌱 Estudando para Front-End
 - 💻 Focando em desenvolvimento WEB e Aplicativo.
 
 <div>

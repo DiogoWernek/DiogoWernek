@@ -4,7 +4,7 @@
 - 💻 Focando em desenvolvimento WEB e Aplicativo.
 
 <div>
-  <a href="https://github.com/anaxuria">
+  <a href="https://github.com/diogowernek">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoaraujowernek&show_icons=true&theme=radical">
 </div>
 

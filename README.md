@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,npm,cpp,python)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,sass,figma,nodejs,postgres,jest)](https://skillicons.dev)
 </p>
 
 <p align="left">

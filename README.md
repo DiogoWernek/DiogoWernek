@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hi, i'm Diogo Wernek. I'm currently studying front-end development.<br>
+  👋 Hi, i'm Diogo Wernek. I'm currently studying front-end development.<br>
   I'm focused on web and application development.
 </p>
 
@@ -9,14 +9,14 @@
   💼 At the moment: **Working as a front-end developer.**
 </p>
 
-<p align="left">
-  💌 Contact me if you want to know more: ⤵️
-</p>
-
 💻 Hard Skills:
 <p align="left">
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,npm,cpp,python)](https://skillicons.dev)
+</p>
+
+<p align="left">
+  💌 Contact me if you want to know more: ⤵️
 </p>
 
 <p align="left">

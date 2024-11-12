@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🐉 Skills: **HTML5 - JavaScript - REACT - NODE.JS - C++ - Python.**
+  🐉 Hard Skills: **HTML5 - JavaScript - REACT - NODE.JS - C++ - Python.**
 </p>
 
 <p align="left">

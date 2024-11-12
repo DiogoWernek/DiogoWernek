@@ -2,7 +2,7 @@
 
 <p align="left"> 
   👋 Hi, i'm Diogo Wernek. I'm currently studying front-end development.<br>
-  I'm focused on web and application development.
+  🧠 I'm focused on web and application development.
 </p>
 
 <p align="left">

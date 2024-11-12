@@ -6,16 +6,17 @@
 </p>
 
 <p align="left">
-  💻 Hard Skills:
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,npm,cpp,python)](https://skillicons.dev)
-</p>
-
-<p align="left">
   💼 At the moment: **Working as a front-end developer.**
 </p>
 
 <p align="left">
   💌 Contact me if you want to know more: ⤵️
+</p>
+
+💻 Hard Skills:
+<p align="left">
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,npm,cpp,python)](https://skillicons.dev)
 </p>
 
 <p align="left">

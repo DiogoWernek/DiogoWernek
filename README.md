@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🐉 Hard Skills: **HTML5 - JavaScript - REACT - NODE.JS - C++ - Python.**
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,npm,cpp,python)](https://skillicons.dev)
 </p>
 
 <p align="left">

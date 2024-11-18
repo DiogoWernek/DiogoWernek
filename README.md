@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  👋 Hi, i'm Diogo Wernek. I'm currently studying front-end development.<br>
+  👋 Hi, i'm <b>Diogo Wernek</b>. I'm currently studying front-end development.<br>
 </p>
 <p align="left"> 
   🧠 I'm focused on web and application development.

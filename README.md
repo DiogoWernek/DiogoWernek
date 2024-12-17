@@ -34,4 +34,9 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<a href="https://app.rocketseat.com.br/me/dioggo-wernek" align="center"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=dioggo-wernek&type=card" width="280" alt="Diogo Wernek's Rocket ID" align="center" /></a>
+<div align="center">
+  <h1>Meu perfil na RocketSeat</h1>
+  <a href="https://app.rocketseat.com.br/me/dioggo-wernek">
+    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=dioggo-wernek&type=card" width="280" alt="Diogo Wernek's Rocket ID" />
+  </a>
+</div>

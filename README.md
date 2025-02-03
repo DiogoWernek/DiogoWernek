@@ -14,7 +14,7 @@
 💻 Hard Skills:
 <p align="left">
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,python)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python)](https://skillicons.dev)
 </p>
 
 <p align="left">

@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💼 At the moment: <b>**Working as a front-end developer.**</b>
+  💼 At the moment: <b>**Working as a full-stack developer.**</b>
 </p>
 
 💻 Hard Skills:
